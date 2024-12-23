@@ -1,3 +1,3 @@
 Moon-lifetime-ekfkLNwE-yDBiqkba Lifetime:True IsExpired:False ExpirationDate:Forever
-Moon-24-hour-yNiQDhqZ-MgAsopwO Lifetime:False IsExpired:False ExpirationDate:12/23/2024
+Moon-24-hour-yNiQDhqZ-MgAsopwO Lifetime:False IsExpired:True ExpirationDate:12/23/2024
 Moon-24-hour-neDvqOPJ-hVXDaXqE Lifetime:False IsExpired:False ExpirationDate:12/24/2024
